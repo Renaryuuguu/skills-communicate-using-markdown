@@ -13,6 +13,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```javascript
 var myVar = "Hello, world!"
 ```
--[X] List syntax is required
--[X] This item is complete
--[ ] This item is not complete
+- [X] List syntax is required
+- [X] This item is complete
+- [ ] This item is not complete
